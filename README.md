@@ -1,7 +1,7 @@
 ### 自己紹介 
 ショウと申します  
 学歴：慶応義塾大学　M1  
-専攻：機械学習、深層学習
+専攻：機械学習、深層学習、推薦システム
 
 <!--
 **icar-syo/icar-syo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
